@@ -82,5 +82,5 @@ For security purposes, the API implements rate limiting using the `express-rate-
 * npm run data:import
 * to run server npm run server
 
-## You can interact with api
+## You can interact with api using Postman or any api testing tool
 * https://intern-project-rhez.onrender.com/api
