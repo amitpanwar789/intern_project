@@ -81,3 +81,6 @@ For security purposes, the API implements rate limiting using the `express-rate-
 * to add seed product and user you can use seeder.js file
 * npm run data:import
 * to run server npm run server
+
+## You can interact with api
+* https://intern-project-rhez.onrender.com/api
